@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\bin\Debug\netcoreapp3.1\Ukol1.exe
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\bin\Debug\netcoreapp3.1\Ukol1.deps.json
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\bin\Debug\netcoreapp3.1\Ukol1.runtimeconfig.json
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\bin\Debug\netcoreapp3.1\Ukol1.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\bin\Debug\netcoreapp3.1\Ukol1.dll
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\bin\Debug\netcoreapp3.1\Ukol1.pdb
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\obj\Debug\netcoreapp3.1\Ukol1.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\obj\Debug\netcoreapp3.1\Ukol1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\obj\Debug\netcoreapp3.1\Ukol1.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\obj\Debug\netcoreapp3.1\Ukol1.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\obj\Debug\netcoreapp3.1\Ukol1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\obj\Debug\netcoreapp3.1\Ukol1.dll
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\obj\Debug\netcoreapp3.1\Ukol1.pdb
+C:\Users\alexa\OneDrive\Dokumenty\c#\Ukol1\Ukol1\obj\Debug\netcoreapp3.1\Ukol1.genruntimeconfig.cache
